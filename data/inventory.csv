@@ -1,0 +1,11 @@
+sku_id,product_name,expiry_date,location,category,stock
+SKU001,Ghee,2025-07-12,Zone A,Dairy,20
+SKU002,Bread,2025-07-13,Zone B,Bakery,10
+SKU003,Paneer,2025-07-14,Zone A,Dairy,15
+SKU004,Juice,2025-07-20,Zone C,Beverage,30
+SKU005,Yogurt,2025-07-11,Zone B,Dairy,8
+SKU006,Tomato Sauce,2025-07-19,Zone A,Condiment,25
+SKU007,Bananas,2025-07-12,Zone C,Fruit,40
+SKU008,Biscuits,2025-08-01,Zone B,Snack,50
+SKU009,Milk,2025-07-11,Zone A,Dairy,12
+SKU010,Burger Buns,2025-07-13,Zone C,Bakery,18
