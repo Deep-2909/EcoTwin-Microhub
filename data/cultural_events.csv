@@ -1,6 +1,6 @@
 event,date,region,high_demand_skus,confidence
-Rakshabandhan,2025-08-19,Pan India,"SKU077 - Rakhi Set; SKU079 - Sweets Hamper",High
-Janmashtami,2025-08-25,North India,"SKU085 - Makhan Pack; SKU086 - Flute Toy",Medium
+Rakshabandhan,2025-08-09,Pan India,"SKU077 - Rakhi Set; SKU079 - Sweets Hamper",High
+Janmashtami,2025-08-16,North India,"SKU085 - Makhan Pack; SKU086 - Flute Toy",Medium
 Onam,2025-09-05,Kerala,"SKU091 - Banana Chips; SKU092 - Sadya Kit",High
 Ganesh Chaturthi,2025-09-06,Maharashtra,"SKU065 - Modak Mix; SKU069 - Coconut",Medium
 Durga Ashtami,2025-09-30,West Bengal,"SKU101 - Puja Kit; SKU102 - Saree Gift Pack",Medium
@@ -12,3 +12,5 @@ Bhai Dooj,2025-10-23,Pan India,"SKU120 - Sibling Gift Combo; SKU121 - Dry Fruits
 Chhath Puja,2025-10-27,Bihar,"SKU124 - Arghya Set; SKU125 - Thekua Mix",Medium
 Guru Nanak Jayanti,2025-11-05,Punjab,"SKU130 - Kada Prasad Pack; SKU131 - Prayer Kit",Medium
 Christmas,2025-12-25,Pan India,"SKU045 - Plum Cake; SKU046 - Gifting Hamper; SKU048 - Wine Bottle",High
+Jackfruit Tacos Raw material,2025-07-25,North India,"SKU089 - Jackfruit(Kathal); SKU090 - Tortillas", Low
+Coffee-Flavoured Avocado Smoothie,2025-08-01,Pan India,"SKU175 - Coffee; SKU233 - Avocado; SKU743 - Honey",Medium
