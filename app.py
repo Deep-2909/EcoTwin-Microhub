@@ -3,9 +3,10 @@ import pandas as pd
 from datetime import datetime, timedelta
 import random
 
+# Module imports
 from ui.dashboard import show_dashboard
 from ui.redistribution import show_redistribution_tab, show_agent_summary
-from ui.forecasting import show_forecasting_tab  # 📈 Forecasting UI tab
+from ui.forecasting import show_forecasting_tab  # ✅ Updated import to correct function
 from agents.expiry_agent import run_redistribution  # Agent simulation logic
 
 INVENTORY_PATH = "data/inventory.csv"
@@ -69,7 +70,7 @@ elif page == "🔄 Redistribution":
     show_redistribution_tab(INVENTORY_PATH)
 
 elif page == "📈 Culturally-Aware Forecasting":
-    show_forecasting_tab()
+    show_forecasting_tab()  # ✅ FIXED: now calling the correct function
 
 elif page == "📊 Agent Summary":
     st.title("📊 Agent Summary")
