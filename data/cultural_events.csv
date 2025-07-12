@@ -1,0 +1,14 @@
+event,date,region,high_demand_skus,confidence
+Rakshabandhan,2025-08-19,Pan India,"SKU077 - Rakhi Set; SKU079 - Sweets Hamper",High
+Janmashtami,2025-08-25,North India,"SKU085 - Makhan Pack; SKU086 - Flute Toy",Medium
+Onam,2025-09-05,Kerala,"SKU091 - Banana Chips; SKU092 - Sadya Kit",High
+Ganesh Chaturthi,2025-09-06,Maharashtra,"SKU065 - Modak Mix; SKU069 - Coconut",Medium
+Durga Ashtami,2025-09-30,West Bengal,"SKU101 - Puja Kit; SKU102 - Saree Gift Pack",Medium
+Dussehra,2025-10-02,Pan India,"SKU105 - Fire Crackers; SKU106 - Puja Thali",High
+Karwa Chauth,2025-10-10,North India,"SKU109 - Sargi Hamper; SKU110 - Mehendi Cone",High
+Diwali,2025-10-20,Pan India,"SKU012 - Sweets Box; SKU019 - Diyas Pack; SKU027 - Dry Fruits",High
+Govardhan Puja,2025-10-22,North India,"SKU116 - Cow Feed Kit; SKU117 - Laddoo Box",Medium
+Bhai Dooj,2025-10-23,Pan India,"SKU120 - Sibling Gift Combo; SKU121 - Dry Fruits",Medium
+Chhath Puja,2025-10-27,Bihar,"SKU124 - Arghya Set; SKU125 - Thekua Mix",Medium
+Guru Nanak Jayanti,2025-11-05,Punjab,"SKU130 - Kada Prasad Pack; SKU131 - Prayer Kit",Medium
+Christmas,2025-12-25,Pan India,"SKU045 - Plum Cake; SKU046 - Gifting Hamper; SKU048 - Wine Bottle",High
